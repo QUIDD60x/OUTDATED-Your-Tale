@@ -2,6 +2,11 @@
 ![broken image link](https://github.com/QUIDD60x/Your-Tale/blob/master/icon.png?raw=true)
 [![Build Status](https://travis-ci.org/tModLoader/tModLoader.svg?branch=master)](https://quiddcorp.net) 
 
+# Currently outdated for the 1.4 version of Terraria.
+## Over the course of a few months of adding content, out of nowhere 1.4 flew by, and changed a LOT.
+
+It made basically ALL my code redundant, and due to a lack of motivation I won't be updating it for some time. Sorry for the issues this may create.
+
 **Your Tale**- A Terraria mod thing I update weekly-ish, and completely open for you to use!
 This might be broken sometimes so i would get this from the official Tmod site so you can update it a lot easier, untill version 1.5 official release it might not work a lot.
 ## This currently includes:
